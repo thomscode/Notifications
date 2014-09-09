@@ -11,14 +11,14 @@ gem install terminal-notifier
 ```
 
 ###### Install one of the following Sublime plugins
-- Terminal Notifier
-- SubNotify
+- [SubNotify](https://sublime.wbond.net/packages/SubNotify)
+- [Terminal Notifier](https://sublime.wbond.net/packages/Terminal%20Notifier)
 
 ### Windows
 1. Install the SubNotify plugin for Windows.
 2. Install either of the following
 	- [Growl for Windows](http://growlforwindows.com)
-	- Install Pywin32 (sublime plugin)
+	- Install [Pywin32](https://sublime.wbond.net/packages/Pywin32)
 
 The Pywin32 plugin allows standard windows notifications via the task bar while growl for Windows allows growl style notifications.
 
