@@ -1,0 +1,5 @@
+{
+	// Notification System to use.
+	// Possible values: terminal-notifier, subnotify
+	"notifier": "subnotify"
+}
